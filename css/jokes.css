@@ -12,5 +12,6 @@ body {
 .container {
     background-color: #fff;
     border-radius: 10px;
+    padding: 50px 20px;
     
 }
