@@ -9,4 +9,8 @@ body {
     background-color: #686de0;
 }
 
-.container
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+    
+}
