@@ -11,6 +11,10 @@ for(let i = 0; i < SQUARES; i++) {
 }
 
 
+function removeColor(element) {
+    element.style.background = '#1d1d1d'
+}
+
 function setColor(element) {
     const color = getRandomColor()
     element.style.background = color
