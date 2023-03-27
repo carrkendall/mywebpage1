@@ -10,7 +10,9 @@ counters.forEach(counter => {
         const increment = target / 200
 
         if (c < target) {
-            counter.innerText = ${Math.ceil(c + increment)}
+            counter.innerText = `${Math.ceil(c + increment)}`
         }
     }
+
+    updateCounter()
 })
