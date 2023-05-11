@@ -3,7 +3,6 @@ body {
 }
 
 
-
   .image-container {
     overflow: hidden;
   }
@@ -13,3 +12,5 @@ body {
     width: 40%;
     box-sizing: border-box;
   }
+
+  
