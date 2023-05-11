@@ -1,3 +1,13 @@
 body {
     background-color: #ACDDDE;
 }
+
+  .image-container {
+    overflow: hidden;
+  }
+
+  .image-container img {
+    float: center;
+    width: 50%;
+    box-sizing: border-box;
+  }
