@@ -3,4 +3,6 @@ body {
 }
 
 img {
-    
+    width: 50%; /* Adjust the percentage value to your desired width */
+    height: auto; /* Maintain the aspect ratio */
+  }
