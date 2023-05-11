@@ -1,16 +1,28 @@
 body {
-    background-color: #ACDDDE;
+  background-color: #ACDDDE;
 }
 
+.container {
+display: flex;
+}
 
-  .image-container {
-    overflow: hidden;
-  }
+.content {
+flex: 1;
+padding: 20px;
+margin: 30px;
+}
 
-  .image-container img {
-    float: right;
-    width: 40%;
-    box-sizing: border-box;
-  }
+.image-container {
+  flex: 2;
+  overflow: hidden;
+}
 
-  
+.image-container img {
+
+  width: 60%;
+  box-sizing: border-box;
+}
+
+img {
+  object-fit: cover;
+}
