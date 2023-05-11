@@ -1,3 +1,15 @@
 body {
     background-color: #ACDDDE;
 }
+
+
+
+  .image-container {
+    overflow: hidden;
+  }
+
+  .image-container img {
+    float: right;
+    width: 40%;
+    box-sizing: border-box;
+  }
