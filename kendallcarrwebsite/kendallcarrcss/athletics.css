@@ -1,0 +1,18 @@
+body {
+    background-color: #ACDDDE;
+}
+
+
+
+  .image-container {
+    overflow: hidden;
+  }
+
+  .image-container img {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+  }
+
+
+  
