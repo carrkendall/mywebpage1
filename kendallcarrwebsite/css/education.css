@@ -6,3 +6,13 @@ img {
     width: 50%; /* Adjust the percentage value to your desired width */
     height: auto; /* Maintain the aspect ratio */
   }
+
+  .image-container {
+    overflow: hidden;
+  }
+
+  .image-container img {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+  }
