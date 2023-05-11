@@ -12,3 +12,7 @@ body {
     width: 20%;
     box-sizing: border-box;
   }
+
+#center {
+text-align: center;
+}
