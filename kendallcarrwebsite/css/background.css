@@ -27,3 +27,7 @@ font-size: 28px;
 img {
   object-fit: cover;
 }
+
+h1 {
+  font-size: 60px;
+}
