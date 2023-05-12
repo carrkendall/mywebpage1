@@ -7,19 +7,19 @@ display: flex;
 }
 
 .content {
-flex: 1;
+flex:2;
 padding: 20px;
 margin: 30px;
 }
 
 .image-container {
-  flex: 2;
+  flex: 3;
   overflow: hidden;
 }
 
 .image-container img {
 
-  width: 60%;
+  width: 30%;
   box-sizing: border-box;
 }
 
