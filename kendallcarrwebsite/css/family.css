@@ -19,7 +19,7 @@ font-size: 28px;
 }
 
 .image-container img {
-  width: 40%;
+  width: 70%;
   box-sizing: border-box;
 }
 
@@ -28,5 +28,5 @@ img {
 }
 
 h1 {
-font-size: 60px;
+font-size: 80px;
 }
