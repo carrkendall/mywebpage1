@@ -10,6 +10,7 @@ display: flex;
 flex: 2;
 padding: 20px;
 margin: 30px;
+font-size: 28px;
 }
 
 .image-container {
@@ -18,11 +19,14 @@ margin: 30px;
 }
 
 .image-container img {
-
   width: 60%;
   box-sizing: border-box;
 }
 
 img {
   object-fit: cover;
+}
+
+h1 {
+font-size: 60px;
 }
