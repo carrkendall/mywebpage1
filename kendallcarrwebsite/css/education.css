@@ -10,6 +10,7 @@ display: flex;
 flex: 2;
 padding: 20px;
 margin: 30px;
+font-size: 28px;
 }
 
 .image-container {
@@ -19,8 +20,9 @@ margin: 30px;
 
 .image-container img {
 
-  width: 30%;
+  width: 50%;
   box-sizing: border-box;
+  float: right;
 }
 
 img {
