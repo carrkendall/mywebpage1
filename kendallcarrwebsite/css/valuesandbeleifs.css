@@ -19,10 +19,14 @@ margin: 30px;
 
 .image-container img {
 
-  width: 60%;
+  width: 40%;
   box-sizing: border-box;
 }
 
 img {
   object-fit: cover;
+}
+
+p {
+  font-size: 20px;
 }
