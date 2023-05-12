@@ -18,9 +18,9 @@ margin: 30px;
 }
 
 .image-container img {
-
   width: 30%;
   box-sizing: border-box;
+  float: right;
 }
 
 img {
