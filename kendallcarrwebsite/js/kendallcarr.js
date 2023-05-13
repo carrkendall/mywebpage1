@@ -1,37 +1,8 @@
-var button1 = document.getElementById("Button1");
-var button2 = document.getElementById("Button2");
-var button3 = document.getElementById("Button3");
-var button4 = document.getElementById("Button4");
-var button5 = document.getElementById("Button5");
-var button6 = document.getElementById("Button6");
+<script src="kendallcarr.js"></script>
+var button = document.getElementById("button");
 
-// Add click event listeners to the buttons
-button1.addEventListener("click", function() {
+// Add a click event listener
+button.addEventListener("click", function() {
   // Change the background color
-  button1.style.backgroundColor = "red";
+  button.style.backgroundColor = "red";
 });
-
-button2.addEventListener("click", function() {
-  // Change the background color
-  button2.style.backgroundColor = "green";
-});
-
-button3.addEventListener("click", function() {
-  // Change the background color
-  button3.style.backgroundColor = "blue";
-});
-
-button4.addEventListener("click", function() {
-    // Change the background color
-    button4.style.backgroundColor = "blue";
-  });
-
-  button5.addEventListener("click", function() {
-    // Change the background color
-    button5.style.backgroundColor = "blue";
-  });
-
-  button6.addEventListener("click", function() {
-    // Change the background color
-    button6.style.backgroundColor = "blue";
-  });
