@@ -1,5 +1,5 @@
 
-var buttons = document.getElementsByClassName("myButton");
+var buttons = document.getElementsById("button");
 
 // Add click event listeners to all buttons
 for (var i = 0; i < buttons.length; i++) {
