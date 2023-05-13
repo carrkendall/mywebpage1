@@ -1,6 +1,9 @@
 var button1 = document.getElementById("Button1");
 var button2 = document.getElementById("Button2");
 var button3 = document.getElementById("Button3");
+var button4 = document.getElementById("Button4");
+var button5 = document.getElementById("Button5");
+var button6 = document.getElementById("Button6");
 
 // Add click event listeners to the buttons
 button1.addEventListener("click", function() {
