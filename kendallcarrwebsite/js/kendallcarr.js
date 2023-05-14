@@ -1,4 +1,4 @@
-<script src="kendallcarr.js"></script>
+// <script src="kendallcarr.js"></script>
 var button = document.getElementById("mybutton");
 const myDiv = document.getElementById("links");
 // Add a click event listener
