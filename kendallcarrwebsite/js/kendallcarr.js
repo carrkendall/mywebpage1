@@ -4,6 +4,10 @@ var button = document.getElementById("mybutton");
 // Add a click event listener
 button.addEventListener("click", function() {
   // Change the background color
-  button.style.backgroundColor = "red";
+  if (button.classList.contains("button-changed")) {
+    button.classList.remove("button-changed");
+  } else {
+    button.classList.add("button-changed");
+  }
 
 });
